@@ -16,4 +16,4 @@ immutable_var= immutable_var,'ТЕКСТ'
 print (immutable_var)
 print (immutable_var[1])
 print (immutable_var[0])
-#immutable_var[1]= 'СЛОВО' (не вазможно т.к. текст являеться не изменным элементом кортежа)
+#immutable_var[1]= 'СЛОВО' (не возможно т.к. текст является неизменным элементом кортежа)
